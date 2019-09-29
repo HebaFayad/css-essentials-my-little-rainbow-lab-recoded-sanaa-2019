@@ -15,4 +15,18 @@ div {
 #orange { /* this selects any elements with the red id */
   border-top-color: #ffa500;
 }
-#yellow
+#yellow { /* this selects any elements with the red id */
+  border-top-color: #f00;
+}
+#red { /* this selects any elements with the red id */
+  border-top-color: #f00;
+}
+#red { /* this selects any elements with the red id */
+  border-top-color: #f00;
+}
+#red { /* this selects any elements with the red id */
+  border-top-color: #f00;
+}
+#red { /* this selects any elements with the red id */
+  border-top-color: #f00;
+}
